@@ -1,2 +1,4 @@
 # Hello-World
-This is my first project
+This is my first Git hub repository 
+
+Author:Aditya Ganesh Jamdade
